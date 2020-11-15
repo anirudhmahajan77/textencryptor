@@ -1,15 +1,10 @@
 {
   "expo": {
-    "name": "HelloMMS",
-    "slug": "HelloMMS",
-    "version": "1.0.0",
+    "name": "Chakravyuh",
+    "slug": "chakravyuh",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -20,7 +15,10 @@
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
+    },
+    "android": {
+      "package": "com.chakravyuh.ani"
     }
   }
 }
